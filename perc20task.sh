@@ -1,10 +1,6 @@
 ## Swisstronik Task Mint a PERC-20 token
 
-- Video Tutorial : 
-- My Channel Airdrop : https://t.me/bangpateng_airdrop
-- My Channel Bot and Script : https://t.me/winsnip
 
-```
 #!/bin/sh
 
 # Function to handle errors
